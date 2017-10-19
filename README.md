@@ -1,6 +1,6 @@
 # Bitcoin Gold
 
-[![Build Status](https://travis-ci.org/BTCGPU/BTCGPU.svg?branch=master)](https://travis-ci.org/BTCGPU/BTCGPU)
+[![Build Status](https://travis-ci.org/RafalSladek/BTCGPU.svg?branch=master)](https://travis-ci.org/RafalSladek/BTCGPU)
 
 Bitcoin Gold (codename BTCGPU) is a fork of the Bitcoin blockchain that will occur at block height 491407, at roughly 12:00:00 UTC October 25, 2017.
 
